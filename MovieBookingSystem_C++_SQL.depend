@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647499150 source:c:\users\adones\downloads\c++ project\moviebookingsystem_c++_sql\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+
